@@ -1,1 +1,1 @@
-# Applying machine learning to intrusion detection system by Augeos
+# Augeos angine machine learning intrusion detection system!
